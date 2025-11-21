@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BrowserstackSwiftSDK",
-            url: "https://sdk-assets.browserstack.com/browserstack-swift-sdk/releases/1.0.0/BrowserstackSwiftSDK.zip",
-            checksum: "6e76b5f20df8141fc9fc7673e60aeeb7bebf80699dab76ebeb4e0e76a8e23311"
+            url: "https://sdk-assets.browserstack.com/browserstack-swift-sdk/releases/2.0.0/BrowserstackSwiftSDK.zip",
+            checksum: "abb43f43a4499e53397de6b3601efcad677a9b564fef58e397e60feb139d52fd"
         )
     ]
 )
